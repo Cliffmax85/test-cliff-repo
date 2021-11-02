@@ -9,7 +9,7 @@
 1. ordered 
 1. list
 
-![](https://en.wikipedia.org/wiki/Doge_(meme)#/media/File:Original_Doge_meme.jpg)
+![](./src/https://en.wikipedia.org/wiki/Doge_(meme)#/media/File:Original_Doge_meme.jpg)
 
 
 | this  |     |   |       |   |
